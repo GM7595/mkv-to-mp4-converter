@@ -1,5 +1,5 @@
-#!/usr/bin/env python3
-"""mkv2mp4.py — Remux an MKV to a QuickTime‑friendly MP4 (no video re‑encode).
+"""
+Remux an MKV to a QuickTime‑friendly MP4 (no video re‑encode).
 
 The script performs three main tasks:
 
